@@ -1,0 +1,155 @@
+.atas{
+  background-color : #2A272A;
+  color : #fff;
+  height : 90px;  
+  position : fixed;
+  top : 0;
+  z-index :10;
+}
+
+
+
+.container {
+
+ 
+  width: 100%;
+
+
+}
+.header-logo {
+  font-size : 12px;
+  float : left;
+  padding : 10px 40px;
+}
+
+
+.main {
+    padding: 180px 0 100px 0;
+    background-image: url(https://arsitagx-master-article.s3-ap-southeast-1.amazonaws.com/article-photo/278/cover.jpg);
+    background-size: cover;
+    color: rgb(247, 242, 242);
+    text-align: center;
+    background-position: center;
+    
+  }
+  
+  .Sambutan{
+    width: 1170px;
+    margin: 0 auto;
+  }
+  
+  .main h1 {
+    opacity: 1;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .main p {
+    opacity: 1;
+    margin-bottom: 3px;
+  }
+  
+  .btn-main {
+    margin: 20px 0;
+  }
+  
+  .btn-main p {
+    margin: 10px 0;
+  }
+  
+  .cek {
+    background-color: #82A0AA;
+  }
+  
+ 
+
+  .btn {
+    padding: 12px 24px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    opacity: 1;
+    border-radius: 4px;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  
+  
+
+
+  .lesson {
+    float: left;
+    width: 33%;
+  }
+  
+  .lesson-icon {
+    position: relative;
+
+  }
+  img {
+      height :300px;
+      width : 300px; 
+  }
+  
+  .lesson-icon p {
+    position: absolute;
+    width: 100%;
+    color: rgb(8, 1, 1);
+  }
+  
+  .txt-contents {
+    width: 100%;
+    margin-top: 50px;
+    font-size: 15px;
+    color: #07010a;
+
+  }
+  .clear {
+    clear:left ;
+   }
+  .body {
+  
+    padding-bottom: 80px;
+    background-color: #2a272a54;
+    text-align: center; 
+  }
+  .message-wrapper {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  
+  .message {
+    padding: 15px 40px;
+    background-color: #677381;
+    cursor: pointer;
+    box-shadow: 0 7px #82A0AA;
+  }
+  
+  .message:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+  }
+  .footer {
+    background-color: #2A272A;
+    color: #fff;
+    height: 150px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 28px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 10px;
+  }
+  
